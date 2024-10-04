@@ -151,13 +151,13 @@ nav.navMobile a:hover {
 
 @media screen and (max-width: 580px) {
   header.header {
-    width: 100%;
+    width: 60%;
   }
 
   .header section {
   display: flex;
   align-items: center;
-  justify-content:right;
+  justify-content:left;
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
 }
