@@ -153,6 +153,14 @@ nav.navMobile a:hover {
   header.header {
     width: 60%;
   }
+
+  .header section {
+  display: flex;
+  align-items: center;
+  justify-content:right;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
   .modal-mobile {
     display: none;
     width: 70%;
